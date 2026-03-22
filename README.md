@@ -83,9 +83,13 @@ Mean score: 0.41 | Median score: 0.48
 ## About This Project
  
 **Institution:** University of California, Santa Cruz
+
 **Degree:** Master of Science in Computer Science and Engineering
+
 **Advisor:** Professor Marcela Alfaro-Córdoba
+
 **Completed:** October 2025
+
 **GPA:** 3.96/4.0
  
 ---
